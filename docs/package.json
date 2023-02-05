@@ -1,0 +1,22 @@
+{
+  "name": "tanuschka.github.io",
+  "version": "0.0.1",
+  "description": "History of tanuschka",
+  "main": "index.js",
+  "authors": {
+    "name": "tanuschka",
+    "email": "akhcsunat@proton.me"
+  },
+  "repository": "https://github.com/tanuschka/tanuschka.github.io/tanuschka.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/shared-utils": "^1.9.8"
+  }
+}
